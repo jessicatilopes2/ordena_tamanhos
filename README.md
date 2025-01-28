@@ -14,4 +14,4 @@ Este projeto é uma aplicação simples em Python que ordena tamanhos de roupas 
 - Bibliotecas necessárias (instale com o comando abaixo):
   ```bash
   pip install pandas openpyxl
-```
+
